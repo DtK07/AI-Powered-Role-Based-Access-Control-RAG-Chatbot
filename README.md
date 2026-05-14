@@ -405,7 +405,7 @@ Demo Video:
 [Insert Loom / YouTube Link]
 
 Architecture Workflow:
-[Insert Workflow Image]
+
 
 ---
 
