@@ -1,4 +1,4 @@
-# Role-Based RAG Chatbot
+# AI-Powered-Role-Based RAG Chatbot
 
 A secure enterprise-style Retrieval-Augmented Generation (RAG) chatbot built using FastAPI, Streamlit, OpenAI APIs, and Pinecone vector search.
 
