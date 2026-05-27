@@ -399,12 +399,6 @@ streamlit run frontend/ui.py
 
 ---
 
-# Demo
-
-Demo Video:
-[Insert Loom / YouTube Link]
-
-Architecture Workflow:
 
 
 ---
